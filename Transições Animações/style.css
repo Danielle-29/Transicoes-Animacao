@@ -32,15 +32,3 @@ h2 {
         opacity: 1;
     }
      }
-
-      
-      @keyframes pulse {
-        0% {
-          transform: scale(1);
-          filter: brightness(100%);
-        }
-        100% {
-          transform: scale(1.1);
-          filter: brightness(200%);
-        }
-      }
